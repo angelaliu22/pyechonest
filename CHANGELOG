@@ -90,3 +90,8 @@ Fix item_id bug.
 
 Add track_id parameters to playlist and song profile calls, add adventurousness, and catalog/read item ids.
 
+Rev 7.1.0 to 7.1.1
+
+Factory function to create a catalog by name, avoiding the profile call.
+Adds a factory function to create a catalog by name, avoiding the profile call.
+
